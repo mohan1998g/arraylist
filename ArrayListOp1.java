@@ -14,6 +14,7 @@ public class ArrayListOp1 {
 		food.add("French Fries");
 		food.add("Ice cream");
 		food.add("Idly");
+		fod.add("Chapati");
 		System.out.println("Food items: " + food);
 
 	}
